@@ -1,4 +1,4 @@
-
+![Decoda Banner](https://raw.githubusercontent.com/LukeMutlow-21/Decoda/refs/heads/main/Decoda/Assets.xcassets/banner-1758x400.png)
 
 # Decoda
 
