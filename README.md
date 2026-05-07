@@ -2,6 +2,10 @@
 
 # Decoda
 
+![macOS](https://img.shields.io/badge/macOS-13%2B-green)
+![Swift](https://img.shields.io/badge/Swift-5.9-orange)
+![Notarised](https://img.shields.io/badge/notarised-no-red)
+
 Decoda is a native macOS utility for decoding and inspecting configuration profiles (`.mobileconfig` files).
 
 It provides administrators and engineers with a simple, local way to view the raw XML contents of a configuration profile without uploading files to third‑party services.
